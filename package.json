@@ -1,0 +1,15 @@
+{
+  "name": "com.unagi.depthoffields",
+  "description": "Depth of field for each camera",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "displayName": "DepthOfFields",
+  "author": {
+    "name": "u-nagi",
+    "email": "unagi1317@gmail.com",
+    "url": "https://github.com/u-nagi/DepthOfFields.git"
+  },
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.7"
+  }
+}
